@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1UwUUfqXz0e5ZJO1kRFV2g",
+  "Reference": "JCUe8_oZ_kqvGsdLOTiY0Q/1UwUUfqXz0e5ZJO1kRFV2g",
+  "ParentRef": "JCUe8_oZ_kqvGsdLOTiY0Q/MH-4vOZRekuaPty2z8iGpA",
+  "Name": "Regra da empresa",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-12T23:27:40.0310506Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:27:58.0203327Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "MH-4vOZRekuaPty2z8iGpA",
+  "Reference": "JCUe8_oZ_kqvGsdLOTiY0Q/MH-4vOZRekuaPty2z8iGpA",
+  "ParentRef": "JCUe8_oZ_kqvGsdLOTiY0Q/cB8K8bOYF0eD6FCuggbIVw",
+  "Name": "Endereço",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-12T23:27:15.721108Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:27:34.652568Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

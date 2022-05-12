@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cB8K8bOYF0eD6FCuggbIVw",
+  "Reference": "JCUe8_oZ_kqvGsdLOTiY0Q/cB8K8bOYF0eD6FCuggbIVw",
+  "ParentRef": "JCUe8_oZ_kqvGsdLOTiY0Q/h8HNJWDkqE-KCY8d9I-ZaA",
+  "Name": "Empresa",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-12T23:26:44.8862851Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-12T23:27:01.236221Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
